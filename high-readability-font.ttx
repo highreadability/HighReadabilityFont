@@ -39021,8 +39021,8 @@
 
     <svgDoc endGlyphID="4" startGlyphID="4">
       <![CDATA[<svg id="glyph4" xmlns="http://www.w3.org/2000/svg" viewBox="0 2048 2048 2048">
-      <path fill="transparent" d="M0-1195h2550V804.9H0V-1195z"/>
-      <path fill="#aaaaaa" d="M0,805h2550V2805H0V805z"/>
+      <path fill="#777777" d="M0-1195h2550V804.9H0V-1195z"/>
+      <path fill="transparent" d="M0,805h2550V2805H0V805z"/>
 <path d="M1010-806L968-66H708l2-708v-250h300v218zm714 0l-42 740h-258l2-708v-250h300l-2 218z"/></svg>
 ]]>
     </svgDoc>
@@ -39084,8 +39084,8 @@
     </svgDoc>
     <svgDoc endGlyphID="13" startGlyphID="13">
       <![CDATA[<svg id="glyph13" xmlns="http://www.w3.org/2000/svg" viewBox="0 2048 2048 2048">
-      <path fill="transparent" d="M0-1195h2550V804.9H0V-1195z"/>
-      <path fill="transparent" d="M0,805h2550V2805H0V805z"/>
+      <path fill="#aaaaaa" d="M0-1195h2550V804.9H0V-1195z"/>
+      <path fill="#F4A460" d="M0,805h2550V2805H0V805z"/>
 <path d="M1420 486h814v368h-814v902h-370V854H238V486h812v-850h370v850z"/></svg>
 ]]>
     </svgDoc>
@@ -39679,8 +39679,8 @@
     </svgDoc>
     <svgDoc endGlyphID="96" startGlyphID="96">
       <![CDATA[<svg id="glyph96" xmlns="http://www.w3.org/2000/svg" viewBox="0 2048 2048 2048">
-      <path fill="transparent" d="M0-1195h2550V804.9H0V-1195z"/>
-      <path fill="transparent" d="M0,805h2550V2805H0V805z"/>
+      <path fill="#aaaaaa" d="M0-1195h2550V804.9H0V-1195z"/>
+      <path fill="#90EE90" d="M0,805h2550V2805H0V805z"/>
 <path d="M2360 568q0 132-44 254t-124 216q-80 94-190 150t-244 56q-94 0-175-18t-158-54q-77-36-152-88t-155-120q-110-90-210-143t-212-51q-70 0-131 29t-105 78q-44 49-70 116t-26 143l-268-34q0-132 44-252t123-210q79-90 189-143t244-53q92 0 175 19t161 55q78 36 153 88t153 116q114 96 211 147t209 49q70 0 131-32t106-85q45-53 71-123t26-146l268 36z"/></svg>
 ]]>
     </svgDoc>
